@@ -9,3 +9,5 @@ def read_text_safely(path):
 
 text, used = read_text_safely("RAW_DATA.csv")
 print(f"성공한 인코딩: {used}")
+
+
